@@ -1,4 +1,4 @@
-# crisscross
-A TikTok clone built in 24 hours 
+# Tick Two
+A clone built in 24 hours 
 
 
